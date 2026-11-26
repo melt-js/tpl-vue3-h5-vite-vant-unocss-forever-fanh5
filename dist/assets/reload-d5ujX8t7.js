@@ -1,0 +1,1 @@
+import{I as e,N as t,g as n,y as r}from"./index-yuEpKdxH.js";import{_ as i}from"./useApi-CUWMwLLw-cRsHjDX_.js";var a=r({__name:`reload`,setup(r){let a=i();return t(()=>{a.go(-1)}),(t,r)=>(e(),n(`div`))}});export{a as default};

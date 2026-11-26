@@ -1,1 +1,0 @@
-import{t as e}from"./AppPageLayout-DD3-7Z5T.js";import{m as t}from"./libTypes-Yr3G-VEU.js";import{I as n,J as r,m as i,v as a,y as o}from"./index-yuEpKdxH.js";import{t as s}from"./demo1-DufRVuyo.js";var c=o({__name:`index`,setup(o){return(o,c)=>{let l=t,u=e;return n(),i(u,{navbar:``},{default:r(()=>[a(l,null,{default:r(()=>[a(s)]),_:1})]),_:1})}}});export{c as default};

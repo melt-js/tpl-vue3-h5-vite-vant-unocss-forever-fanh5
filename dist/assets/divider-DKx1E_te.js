@@ -1,0 +1,1 @@
+import{t as e}from"./AppPageLayout-DNLPB6Bd.js";import{m as t}from"./libTypes-DBQAalFA.js";import{I as n,J as r,m as i,v as a,y as o}from"./index-CTARgHmk.js";import{t as s}from"./demo1-BJ21yZ_0.js";var c=o({__name:`index`,setup(o){return(o,c)=>{let l=t,u=e;return n(),i(u,{navbar:``},{default:r(()=>[a(l,null,{default:r(()=>[a(s)]),_:1})]),_:1})}}});export{c as default};
